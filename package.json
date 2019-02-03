@@ -1,0 +1,31 @@
+{
+  "name": "uptimerobotapiv2-nodejs-wrapper",
+  "version": "1.0.0",
+  "description": "A UptimeRobot API v2 wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cellularhacker/UptimeRobotAPIv2-nodejs-wrapper.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "js",
+    "uptimerobot",
+    "api",
+    "v2",
+    "cellularhacker"
+  ],
+  "author": "Cellularhacker",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/Cellularhacker/UptimeRobotAPIv2-nodejs-wrapper/issues"
+  },
+  "homepage": "https://github.com/Cellularhacker/UptimeRobotAPIv2-nodejs-wrapper#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
